@@ -3,7 +3,7 @@
 
 Welcome to my BI Analytics portfolio. Below are projects I've worked on at TripleTen that demonstrate my skills in data analysis/cleaning, visualization, and storytelling.
 
-| Project number | Title | Tools | Description | 
+| Project | Title | Tools | Description | 
 | :-----------: | ----------- | ------------ | ----------- |
 | 1 | [NYC Airbnb Property Investment Analysis](https://docs.google.com/spreadsheets/d/1Oojxcn9uzlCmtk3nWaWDgIFoKN1XOScsCrG3Yc5vl4Q/edit?usp=sharing) | Google Sheets | Identified which neighborhoods and property sizes in Manhattan are most attractive for vacation rentals as well as how much money they generated as a result. |
 | 2 | [Ecommerce User Activity Analysis](https://docs.google.com/spreadsheets/d/1oMQMKM8wiZqpQBTttwxDWZSm3Ft1FpPK4tXQvPy3obM/edit?usp=sharing) | Google Sheets | Analyzed user behavior through an ecommerce website based on event logs. The goal of the project was to evaluate website performance, user retention, and conversion rates across a customer's journey through the website. |
