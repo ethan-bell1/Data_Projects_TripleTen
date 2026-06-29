@@ -1,5 +1,5 @@
 
-📊 Aspiring BI Analyst | Google Sheets • SQL • Tableau • Power BI
+📊 Aspiring BI Analyst | Google Sheets • Excel • SQL • Tableau • Power BI
 
 Welcome to my BI Analytics portfolio. Below are projects I've worked on at TripleTen that demonstrate my skills in data analysis/cleaning, visualization, and storytelling.
 
